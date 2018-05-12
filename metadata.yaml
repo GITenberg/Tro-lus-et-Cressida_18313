@@ -1,0 +1,49 @@
+_repo: Tro-lus-et-Cressida_18313
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Francois Pierre Guillaume
+    - Guisot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18313'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragicomedy'
+- !lcsh 'Cressida (Fictitious character) -- Drama'
+- !lcsh 'Troilus (Legendary character) -- Drama'
+- !lcsh 'Trojan War -- Drama'
+- !lcc 'PR'
+- !lcsh 'Troy (Extinct city) -- Drama'
+title: Troïlus et Cressida
+url: http://www.gutenberg.org/ebooks/18313
